@@ -1,0 +1,13 @@
+@import "bootstrap";
+@import "mixin";
+.mixin{
+    @include flex-center;
+}
+
+.nav-menu{
+    
+    padding: 30px;
+}
+
+
+    
